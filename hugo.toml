@@ -79,16 +79,16 @@ enableInlineShortcodes = true
     weight = 2
 
   [[menu.main]]
-    name = "Contacto"
+    name = "Welcome"
     url = "/contact"
     weight = 4
 
 # Paramaters for the whole site
 [params]
-  title = "La empresa"
-  subtitle = "El sitio web de su empresa"
+  title = "Costa Tropical for people, dogs and cats"
+  subtitle = "Travel concierge"
   author.name = "Aleksander Janczarek"
-  keywords = ["theme", "hugo", "podcast"]
+  keywords = ["Travel concierge", "Salobreña", "Motril"]
   languageCode = "en" # For accessibility this needs to be set. You can find all language codes at https://www.w3schools.com/tags/ref_language_codes.asp
   
   instant_page = true
